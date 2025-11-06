@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ayush khunt</h1>
 <h3 align="center">A passionate game designer from India workin</h3>
 
-- 🔭 I’m currently working on **virana**
+- 🔭 I’m currently working on **project virana**
 
 - 🌱 I’m currently learning **game development**
 
