@@ -1,23 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
-  <rect width="100%" height="100%" fill="#0b1220"/>
+![banner](banner_pixel_icon.svg)
 
-  <!-- Pixel gamepad icon -->
-  <g transform="translate(120,100) scale(2)">
-    <rect x="0" y="0" width="64" height="32" rx="4" fill="#1e293b"/>
-    <rect x="8" y="8" width="8" height="8" fill="#38bdf8"/>
-    <rect x="16" y="8" width="8" height="8" fill="#38bdf8"/>
-    <rect x="24" y="8" width="8" height="8" fill="#38bdf8"/>
-    <rect x="40" y="8" width="8" height="8" fill="#f43f5e"/>
-    <rect x="48" y="8" width="8" height="8" fill="#f43f5e"/>
-  </g>
-
-  <!-- Text -->
-  <text x="340" y="145" font-size="64" font-family="Press Start 2P, monospace" fill="#f8fafc">
-    Hey, I'm Ayush
-  </text>
-  <text x="340" y="185" font-size="18" font-family="Inter,Segoe UI,sans-serif" fill="#94a3b8">
-    just a simple developer
-  </text>
 </svg>
 
 <h1 align="center">👋 Hi, I'm Ayush Khunt</h1>
